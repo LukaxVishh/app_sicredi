@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sicredi.onboarding.app-mergeDebugResources-67:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kinha\\.gradle\\caches\\8.13\\transforms\\1c0365b6c97b66d09ef9ea4c71179a11\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

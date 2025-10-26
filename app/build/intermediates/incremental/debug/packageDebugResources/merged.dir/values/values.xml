@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#1A8F5A</color>
+    <color name="yellow">#F2C335</color>
+    <string name="app_name">Sicredi Onboarding</string>
+    <style name="Theme.SicrediOnboarding" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>

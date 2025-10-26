@@ -1,0 +1,4 @@
+<resources>
+    <!-- Tema base para o Manifest -->
+    <style name="Theme.SicrediOnboarding" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
